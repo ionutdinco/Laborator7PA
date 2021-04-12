@@ -8,5 +8,5 @@ Token- clasa specifica unui token de pe tabla, retine valoarea tokenului si cele
 
 Optional:
 In Plus fata de compulsory:
-Clasa Cronometru - Afiseaza un cronometru si opreste jocul dupa 1 min.
+Clasa Timer - Afiseaza un cronometru si opreste jocul dupa 1 min.
 Clasa Wraper - Calculeaza punctajul si decide castigatorul.
